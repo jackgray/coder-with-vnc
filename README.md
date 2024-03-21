@@ -1,6 +1,6 @@
 # Use Coder to spin up graphical workspaces
 
-![](https://github.com/jackgray/coder-with-vnc/gifs/coder-workspaces.gif)
+![workspacegif](./gifs/coder-workspaces.gif)
 
 The templates directory contains examples that provide a button to start a debian based virtual environment in the browser. 
 
