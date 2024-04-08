@@ -1,4 +1,4 @@
-# Use Coder to spin up graphical workspaces
+# Use Coder to spin up virtual workspaces
 
 ![workspacegif](./gifs/coder-workspaces.gif)
 
