@@ -1,6 +1,5 @@
 # Use Coder to spin up virtual workspaces
 
-![workspacegif](./gifs/coder-workspaces.gif)
 
 The templates directory contains examples that provide a button to start a debian based virtual environment in the browser. 
 
